@@ -1,0 +1,12 @@
+// Eelybase - (c) 2023-24 by Joerg Plenert | https://eely.eu
+
+= C++
+
+File-Names:				        PascalCase
+Class-Name:				        PascalCase
+Member-methods: 			    PascalCase
+Member-variables: 			    _camelCase
+Public Member-variables: 		PascalCase
+Variables (incl. parameters): 	camelCase
+
+Adopted from: https://google.github.io/styleguide/cppguide.html

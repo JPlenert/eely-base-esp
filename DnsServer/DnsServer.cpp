@@ -19,7 +19,7 @@
 #include "lwip/sockets.h"
 #include "lwip/err.h"
 #include "esp_netif.h"
-#include "dnsCaptiveServer.h"
+#include "DnsServer.h"
 #include "endian.h"
 #include "wifi.h"
 #include "DnsServer.h"

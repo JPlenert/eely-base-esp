@@ -2,6 +2,7 @@
 #include "esp_log.h"
 #include "esp_wifi.h"
 #include "wifi.h"
+#include "string.h"
 
 #define NETIF_DESC_STA "WifiSTA"
 #define CONFIG_EXAMPLE_WIFI_CONN_MAX_RETRY 10
